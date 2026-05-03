@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gurudatt</h1>
 <h3 align="center">A curious software tester based in india</h3>
 
-- 🔭 I’m currently using **Playwright, **Cypress, k6, Selenium, GitHub Actions, Azure Devops**
+- 🔭 I’m currently using Playwright, **Cypress, k6, Selenium, GitHub Actions, Azure Devops**
 
 - 🌱 I’m currently learning **Coding Standards that can be applied to Test Automation Projects**
 
